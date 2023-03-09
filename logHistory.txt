@@ -1,0 +1,29 @@
+commit 367d6f76813e2b683390f18abe9f68056a3c6605
+Author: 3iLac <rtv_pl@mail.ru>
+Date:   Fri Mar 10 02:31:10 2023 +0300
+
+    Add .gitignore
+
+commit b788cf2b70e1ff932cd4def33b9ee44b945e9903
+Author: 3iLac <rtv_pl@mail.ru>
+Date:   Fri Mar 10 02:13:08 2023 +0300
+
+    Master Commit
+
+commit c100392641210a637eb82ba2d54cab58e7b44061
+Author: 3iLac <rtv_pl@mail.ru>
+Date:   Fri Mar 10 02:11:19 2023 +0300
+
+    Merge Commit
+
+commit 31c2b5d4b24a5d84878478cddf359eb7f83228dc
+Author: 3iLac <rtv_pl@mail.ru>
+Date:   Fri Mar 10 01:42:52 2023 +0300
+
+    Second commit
+
+commit 20f86dad1d1e1f5e6a000291d51a16cd6e8e8d73
+Author: 3iLac <rtv_pl@mail.ru>
+Date:   Fri Mar 10 01:38:08 2023 +0300
+
+    First commit
